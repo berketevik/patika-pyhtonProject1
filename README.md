@@ -1,1 +1,1 @@
-# patika-pyhtonProject1
+# https://app.patika.dev/berkete
